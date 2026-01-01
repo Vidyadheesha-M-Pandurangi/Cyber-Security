@@ -12,3 +12,6 @@ The project uses a publicly available network traffic dataset containing benign 
 
 Dataset link: "https://huggingface.co/datasets/vidyadheesha-m-pandurangi/Cybersecurity-Datasets/resolve/main/Dataset.csv"
 
+🔗 Website URL
+
+🌐 AI-Based Network Intrusion Detection System: "https://ai-based-network-intrusion-detection-system.streamlit.app/"
